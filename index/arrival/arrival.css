@@ -1,0 +1,74 @@
+.contnier h1{
+background-color: cadetblue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+}
+.col1 {float: right;
+    padding: 13px;}  
+
+
+
+.col2{
+    float: right;
+    padding: 13px;
+}
+.col3{
+    float: right;
+    padding: 13px;
+}
+.col4{
+    float: right;
+    padding: 13px;
+}
+.col5{
+    float: right;
+    padding: 13px;
+   
+
+
+}
+.hh6{
+    font-size: 25px;
+ font-family: sans-serif;
+}
+.INAYAT2{
+    width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    padding: 15px;
+    background-color:green;
+    margin-bottom: 10px;
+}
+.NO22{
+    background: yellow;
+}
+.contnier a{
+    border: 1px solid black;
+    padding: 15px;
+    background-color:red;
+    color: black;
+    list-style: none; margin-top: 100px;
+    text-decoration: none;
+    margin-right: 15px;
+    
+
+}
+.contnier a:hover{
+    background-color: royalblue;
+
+}
+.INAYAT2:hover{
+    background-color: aquamarine;
+}
+.footer{
+    background-color: teal;
+    padding: 50px;
+}
+.footer li{
+    color: aliceblue;
+}
+.footer h2{
+    color: springgreen;
+}
+
+

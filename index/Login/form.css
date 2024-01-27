@@ -1,0 +1,61 @@
+body{
+    background-image: url(https://promo.com/tools/image-resizer/static/Pattern_image-8c050053eab884e51b8599607865d112.jpg);
+}
+.contnier{
+
+    width: 100%;
+    padding: 50px;
+background: transparent;
+    width: 300Px;
+margin-left: 400px;
+    border-radius: 30px;
+    position: fixed;
+    top: 100px;
+    border: solid white;
+ 
+
+    
+}
+.h11{
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+.h22{
+    width: 300px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.h33{
+    width: 150px;
+    margin: 20px;
+    padding: 15PX;
+    background-color:white;
+    position: relative;
+    transform: none;
+
+   
+}
+.h33:hover{
+    background-color: lightskyblue;
+}
+h1{
+    color: aliceblue;
+}
+.h44{
+    color: aliceblue;
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.h55{
+    color: aliceblue;
+list-style: none;
+
+    
+}
+.h66{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: serif;
+
+}
